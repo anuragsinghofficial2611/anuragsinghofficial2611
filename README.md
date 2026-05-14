@@ -37,7 +37,6 @@ I am deeply focused on building strong problem-solving skills and exploring mode
 
 * Solved **160+ problems on LeetCode**
 * Leetcode - https://leetcode.com/u/BlZVSBLJIv/
-* Codolio - https://codolio.com/profile/anurag_singh_
 * Strong foundation in core Data Structures and Algorithms
 
 ### 📊 Data Structures
