@@ -15,11 +15,11 @@
 
 ### 🚀 Turning Ideas Into Scalable Products
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=anuragsinghofficial2611&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/anuragsinghofficial2611?style=for-the-badge" />
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/anuragsinghofficial2611?style=for-the-badge" />
 
 </div>
 
