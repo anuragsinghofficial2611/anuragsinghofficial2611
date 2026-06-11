@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor;Building+Cool+Things+Every+Day;Always+Learning+Always+Growing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Enthusiast;Learning+AI/ML;Diving+in+Backend;Building+Cool+Things+Every+Day;Always+Learning+Always+Growing"/>
 
 </div>
 
