@@ -1,8 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Anurag Singh
+# <center><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Anurag Singh</center>
 
 <div align="center">
 
-<img src="YOUR_BANNER_URL_HERE" width="100%"/>
 
 <br/>
 
