@@ -30,20 +30,19 @@
 
 ```yaml
 Name: Anurag Singh
-Role: Full Stack Developer
 Focus:
   - MERN Stack
   - Data Structures & Algorithms
-  - System Design
+  - AI/Machine Learning 
   - Open Source
 
 Current Goal:
   Crack Top Product Companies
 
 Learning:
-  - Advanced Backend
-  - Distributed Systems
-  - Cloud Technologies
+  - Diving in Backend System
+  - Machine Learning
+  - Data Structure and Algorithms
 
 Fun Fact:
   I enjoy solving complex problems
@@ -54,11 +53,10 @@ Fun Fact:
 
 # ⚡ Current Mission
 
-* 🔭 Working on: YOUR_PROJECT_NAME
-* 🌱 Learning: SYSTEM DESIGN / DEVOPS / CLOUD
+* 🔭 Working on: LIFELINK
+* 🌱 Learning: Machine Learning / DSA / Full Stack
 * 👯 Looking to collaborate on: Open Source Projects
-* 💬 Ask me about: React, Node.js, MongoDB, DSA
-* ⚡ Goal 2026: Become a Top Software Engineer
+* 💬 Open to any opportunities
 
 ---
 
@@ -68,7 +66,7 @@ Fun Fact:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite"/>
 
 </p>
 
@@ -76,7 +74,7 @@ Fun Fact:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs"/>
 
 </p>
 
@@ -84,7 +82,7 @@ Fun Fact:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,javascript,python"/>
 
 </p>
 
@@ -92,7 +90,7 @@ Fun Fact:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
 </p>
 
@@ -102,9 +100,9 @@ Fun Fact:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuragsinghofficial2611&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsinghofficial2611&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -112,7 +110,7 @@ Fun Fact:
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsinghofficial2611&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -122,7 +120,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anuragsinghofficial2611&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -132,7 +130,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragsinghofficial2611&theme=tokyo-night"/>
 
 </div>
 
@@ -142,71 +140,30 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/anuragsinghofficial2611/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🌟 Project 1
-
-```bash
-Project Name Here
-```
-
-Short description of your project.
-
-### Tech Used
-
-* React
-* Node.js
-* MongoDB
-
-🔗 Live Demo: ADD_LINK
-
-🔗 Repository: ADD_LINK
-
----
-
-## 🌟 Project 2
-
-```bash
-Project Name Here
-```
-
-Short description of your project.
-
-### Tech Used
-
-* React
-* Express
-* MongoDB
-
-🔗 Live Demo: ADD_LINK
-
-🔗 Repository: ADD_LINK
-
----
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/anurag-singh-469019381/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="YOUR_TWITTER_URL">
-<img src="https://skillicons.dev/icons?i=twitter"/>
+<a href="https://x.com/AnuragSingh300a">
+<img src="https://skillicons.dev/icons?i=x"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://skillicons.dev/icons?i=webflow"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:anuragsinghofficial2611@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
