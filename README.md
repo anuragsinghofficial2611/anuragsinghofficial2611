@@ -139,7 +139,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/anuragsinghofficial2611/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/anuragsinghofficial2611/anuragsinghofficial2611/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
