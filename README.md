@@ -154,10 +154,6 @@ Fun Fact:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://x.com/AnuragSingh300a">
-<img src="https://skillicons.dev/icons?i=x"/>
-</a>
-
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://skillicons.dev/icons?i=webflow"/>
 </a>
