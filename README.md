@@ -18,8 +18,6 @@
 
 I'm **Anurag Singh**, a Computer Science student and developer who enjoys turning ideas into real-world products.
 
-My primary focus is **full-stack development**, with a growing interest in **backend engineering, system design, AI/ML, and open source**.
-
 I enjoy understanding **how things work under the hood** rather than simply making them work.
 
 ```yaml
