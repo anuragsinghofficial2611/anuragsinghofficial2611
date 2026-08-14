@@ -97,25 +97,11 @@ Philosophy:
 |   🌐 **Full Stack**   | Production-ready web applications                      |
 |     ⚙️ **Backend**    | APIs, authentication, databases & scalable services    |
 |       🧠 **DSA**      | Algorithms, problem solving & competitive programming  |
-|     🤖 **AI / ML**    | Machine learning and intelligent applications          |
-| 🏗️ **System Design** | Architecture, scalability & distributed systems        |
+|     🤖 **AI**         | AI Integrations and intelligent applications           |
+| 🏗️ **System Design**  | Architecture, scalability & distributed systems        |
 |   🌍 **Open Source**  | Understanding and contributing to real-world codebases |
 
 </div>
-
----
-
-# 🚀 Featured Project
-
-## 🩸 LIFELINK
-
-> A platform designed to connect blood donors with people who need urgent blood assistance.
-
-**Focus:** Real-time communication • Full Stack Development • WebSockets • Scalable Architecture
-
-**Tech:** `React` `Node.js` `Express.js` `MongoDB` `Socket.io`
-
-🔗 **Repository:** *Coming Soon*
 
 ---
 
