@@ -21,31 +21,27 @@ I'm **Anurag Singh**, a Computer Science student and developer who enjoys turnin
 I enjoy understanding **how things work under the hood** rather than simply making them work.
 
 ```yaml
-name: Anurag Singh
+Name: Anurag Singh
 
-role:
+Role:
   - Full Stack Developer
   - Backend Enthusiast
   - DSA Problem Solver
 
-focus:
+Focus:
   - MERN Stack
-  - Next.js
-  - Backend Engineering
-  - Data Structures & Algorithms
-  - AI / Machine Learning
-  - Open Source
+  - Depth Backend Engineering
+  - Data Structures & Algorithms 
+  - AI and Automation / fundamentals in Machine Learning
+  - Open Source Contributions
 
 currently_learning:
   - Advanced Backend Development
-  - System Design
-  - Machine Learning
+  - AI Integeration
+  - Data Structure & Algoritms
   - Scalable Web Applications
 
-goal:
-  Build impactful products and become a strong software engineer
-
-philosophy:
+Philosophy:
   Build → Break → Understand → Improve → Repeat
 ```
 
@@ -55,7 +51,7 @@ philosophy:
 
 ## 🎯 What I'm Up To
 
-* 🔭 Currently building **LIFELINK**
+* 🔭 Currently building **Sahay**
 * 🌱 Deepening my knowledge of **Backend Engineering, DSA & Machine Learning**
 * 🧠 Exploring **System Design & scalable architectures**
 * 🛠️ Building full-stack applications with **React, Next.js, Node.js & Express**
