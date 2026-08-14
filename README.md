@@ -71,7 +71,7 @@ Philosophy:
 ### ⚙️ Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs" />
 </p>
 
 ### 💻 Programming Languages
@@ -83,7 +83,7 @@ Philosophy:
 ### 🧰 Tools & Workflow
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
