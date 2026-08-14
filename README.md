@@ -1,99 +1,107 @@
-# <center><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Anurag Singh</center>
+# <div align="center">👋 Hey, I'm Anurag Singh</div>
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Backend+%26+System+Design+Enthusiast;DSA+Problem+Solver;Exploring+AI%2FML;Building+Products%2C+Not+Just+Projects;Always+Learning.+Always+Building." />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DSA+Enthusiast;Learning+AI/ML;Diving+in+Backend;Building+Cool+Things+Every+Day;Always+Learning+Always+Growing"/>
+<img src="https://komarev.com/ghpvc/?username=anuragsinghofficial2611&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/anuragsinghofficial2611?style=for-the-badge&label=Followers" />
+<img src="https://img.shields.io/github/stars/anuragsinghofficial2611?style=for-the-badge&label=Stars" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-### 🚀 Turning Ideas Into Scalable Products
+I'm **Anurag Singh**, a Computer Science student and developer who enjoys turning ideas into real-world products.
 
-<img src="https://komarev.com/ghpvc/?username=anuragsinghofficial2611&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/anuragsinghofficial2611?style=for-the-badge" />
-
-<img src="https://img.shields.io/github/stars/anuragsinghofficial2611?style=for-the-badge" />
-
-</div>
-
----
-
-# 🧑‍💻 About Me
+I enjoy understanding **how things work under the hood** rather than simply making them work.
 
 ```yaml
 Name: Anurag Singh
+
+Role:
+  - Full Stack Developer
+  - Backend Enthusiast
+  - DSA Problem Solver
+
 Focus:
   - MERN Stack
-  - Data Structures & Algorithms
-  - AI/Machine Learning 
-  - Open Source
+  - Depth Backend Engineering
+  - Data Structures & Algorithms 
+  - AI and Automation / fundamentals in Machine Learning
+  - Open Source Contributions
 
-Current Goal:
-  Crack Top Product Companies
+currently_learning:
+  - Advanced Backend Development
+  - AI Integeration
+  - Data Structure & Algoritms
+  - Scalable Web Applications
 
-Learning:
-  - Diving in Backend System
-  - Machine Learning
-  - Data Structure and Algorithms
-
-Fun Fact:
-  I enjoy solving complex problems
-  more than watching movies 😄
-
-Portofolio - https://portfolio-mu-swart-63.vercel.app/
+Philosophy:
+  Build → Break → Understand → Improve → Repeat
 ```
 
----
-
-# ⚡ Current Mission
-
-* 🔭 Working on: LIFELINK
-* 🌱 Learning: Machine Learning / DSA / Full Stack
-* 👯 Looking to collaborate on: Open Source Projects
-* 💬 Open to any opportunities
+🌐 **Portfolio:** [anuragsingh.dev](https://portfolio-mu-swart-63.vercel.app/)
 
 ---
 
-# 🛠 Tech Arsenal
+## 🎯 What I'm Up To
 
-## Frontend
+* 🔭 Currently building **Sahay**
+* 🌱 Deepening my knowledge of **Backend Engineering, DSA & Machine Learning**
+* 🧠 Exploring **System Design & scalable architectures**
+* 🛠️ Building full-stack applications with **React, Next.js, Node.js & Express**
+* 🤝 Looking to contribute to **Open Source**
+* 💡 Interested in collaborating on interesting products and engineering problems
 
-<p align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite"/>
+# ⚡ Tech Stack
 
-</p>
-
-## Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs"/>
-
-</p>
-
-## Programming Languages
+### 🎨 Frontend
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,c,cpp,javascript,python"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" />
 </p>
 
-## Tools
+### ⚙️ Backend & Databases
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,nextjs" />
 </p>
+
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+</p>
+
+### 🧰 Tools & Workflow
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+# 🧩 What I Like Building
+
+<div align="center">
+
+|          Area         | What I'm Exploring                                     |
+| :-------------------: | :----------------------------------------------------- |
+|   🌐 **Full Stack**   | Production-ready web applications                      |
+|     ⚙️ **Backend**    | APIs, authentication, databases & scalable services    |
+|       🧠 **DSA**      | Algorithms, problem solving & competitive programming  |
+|     🤖 **AI**         | AI Integrations and intelligent applications           |
+| 🏗️ **System Design**  | Architecture, scalability & distributed systems        |
+|   🌍 **Open Source**  | Understanding and contributing to real-world codebases |
+
+</div>
 
 ---
 
@@ -101,37 +109,33 @@ Portofolio - https://portfolio-mu-swart-63.vercel.app/
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuragsinghofficial2611&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuragsinghofficial2611&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsinghofficial2611&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsinghofficial2611&theme=tokyonight&hide_border=true" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsinghofficial2611&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsinghofficial2611&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anuragsinghofficial2611&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anuragsinghofficial2611&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragsinghofficial2611&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragsinghofficial2611&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -141,45 +145,40 @@ Portofolio - https://portfolio-mu-swart-63.vercel.app/
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anuragsinghofficial2611/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/anuragsinghofficial2611/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-
-# 🌐 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anurag-singh-469019381/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=webflow"/>
+<a href="https://portfolio-mu-swart-63.vercel.app/">
+<img src="https://skillicons.dev/icons?i=webflow" width="48" />
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:anuragsinghofficial2611@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48" />
 </a>
 
 </div>
 
----
-
-# 💭 Developer Quote
+<br/>
 
 <div align="center">
 
-### "Code. Learn. Build. Repeat."
+### 💬 "Code. Learn. Build. Repeat."
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8A2BE2&height=120&section=footer" />
 
 </div>
