@@ -26,7 +26,7 @@ Name: Anurag Singh
 Role:
   - Full Stack Developer
   - Backend Enthusiast
-  - DSA Problem Solver
+  - DSA Problem Solver (400+ Leetcode Problems)
 
 Focus:
   - MERN Stack
