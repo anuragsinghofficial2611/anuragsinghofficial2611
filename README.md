@@ -37,7 +37,7 @@ Focus:
 
 currently_learning:
   - Advanced Backend Development
-  - AI Integeration
+  - Generative AI Development
   - Data Structure & Algoritms
   - Scalable Web Applications
 
